@@ -45,21 +45,21 @@ http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=7e90d9a60f83ed
 #EXTINF: -1 tvg-name="COLORS BANGLA CINAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/1050px-Colors_Bangla_Cinema.png" group-title="Movies", COLORS BANGLA CINAMA
 
 #EXTINF: -1 tvg-name="JALSHA MOVIES" tvg-logo="http://toffe.top/images/jalshamovies.png" group-title="Movies", JALSHA MOVIES
-
+http://10.99.99.99:8082/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8?token=d9a9a124b8df7f29ac7415bed5e8375ecc7b94e9-dc246990349a122d5914040e0b656f6f-1756765272-1756754472
 #EXTINF: -1 tvg-name="& PICTURE" tvg-logo="http://toffe.top/images/andpicture.png" group-title="Movies", & PICTURE
 
 #EXTINF: -1 tvg-name="ZEE BANGLA CINAMA" tvg-logo="http://toffe.top/images/Zeebanglacinema.png" group-title="Movies", ZEE BANGLA CINAMA
-
+http://10.99.99.99:8082/ZEE.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=204a6220bfcc39ad522d991cbd2cf6258c136817-c2b187422d4e73ede09ccf53a809d465-1756765208-1756754408
 #EXTINF: -1 tvg-name="SONY PIX" tvg-logo="http://toffe.top/images/sonypix.jpg" group-title="Movies", SONY PIX
-
+http://10.99.99.99:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=6709162469de6428b56cb16b166ebda7e61ec46a-62b1c062affbb8bcf84f8028dce525b1-1756765340-1756754540
 #EXTINF: -1 tvg-name="SONY MAX" tvg-logo="http://toffe.top/images/sonymax.jpg" group-title="Movies", SONY MAX
-
+http://10.99.99.99:8082/AND.PRIVE.HD/index.m3u8?token=418483abfed57ebc26c36f827f8f03ef5f90357d-939f6d9d7558f7293e3cd85f50dd4a5d-1756765519-1756754719&remote=no_check_ip
 #EXTINF: -1 tvg-name="ZEE CINEMA" tvg-logo="http://toffe.top/images/zeecinema.jpg" group-title="Movies", ZEE CINEMA
 
 #EXTINF: -1 tvg-name="MOVIES NOW" tvg-logo="http://toffe.top/images/moviesnow.png" group-title="Movies", MOVIES NOW
-
+http://10.99.99.99:8082/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?token=0ee49df0952f39c116208210f6c4b1ba5a86215c-281ab71e9bc627333ddd2f79a0d317de-1756765313-1756754513
 #EXTINF: -1 tvg-name="STAR MOVIES" tvg-logo="http://toffe.top/images/starmovies.png" group-title="Movies", STAR MOVIES
-
+http://10.99.99.99:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=6709162469de6428b56cb16b166ebda7e61ec46a-62b1c062affbb8bcf84f8028dce525b1-1756765340-1756754540
 #EXTINF: -1 tvg-name="GOLDMINE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTPejj392fGoNbIVJPJYhDIFdpf598ISk-pelQS2VlMeN6XAWrXAY_h_FidnEwO6r8Bjny_U0xu6cC0gpQst-TLnYrWUPkRgxw2BwliA3G5vvU5y0mWFc0MC5QKQ2oyk3UI9fhVcvq5M0DLuIb8b6tmVEMFpA2lzPwXKjzjVTk2Cs8-BqUEvViPQrw7X6R/s320/Goldmines_Bollywood.png" group-title="Movies", GOLDMINE
 
 #EXTINF: -1 tvg-name="COLORS CINAPLEX" tvg-logo="http://toffe.top/images/colorscimeplex.png" group-title="Movies", COLORS CINAPLEX
